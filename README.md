@@ -1,6 +1,6 @@
 ---
-app: "nome_do_aplicacao_movel"          # Entre as aspas escreve o nome da app
-date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+app: "Museu da Covilhã App Android"          # Entre as aspas escreve o nome da app
+date: "15/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "phttps://play.google.com/store/apps/details?id=com.realizasom.mdc&hl=pt_PT"   # Entre as aspas escreve o endereço da app na loja
 a11y_statement: "https://www.cm-covilha.pt/apps/museu-da-covilha/acessibilidade/index-android.html" # Entre as aspas escreve o URL da Declaração de Acessibilidade da App. A declaração da App está num URL público
 owner: "Museu da Covilhã App Android"         # Entre as aspas escrever o nome do owner da app
